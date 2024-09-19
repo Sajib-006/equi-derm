@@ -18,7 +18,7 @@ performed domain adaptation using additional skin image
 datasets such as HAM10000. This adaptation significantly
 improved model performance across all models.
 
-![Model Architecture]([path/to/image](https://github.com/Sajib-006/equi-derm/blob/main/figure/model_archi.pdf))
+![Model Architecture](figure/model_archi.pdf)
 
 
 ### Data Download
