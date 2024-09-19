@@ -37,3 +37,11 @@ improved model performance across all models.
 
 ### Download Pre-trained weights
 - Download corresponding model weights from the method papers before running the finetuning scripts
+
+### For Citation
+```@article{dip2024equitable,
+  title={Equitable Skin Disease Prediction Using Transfer Learning and Domain Adaptation},
+  author={Dip, Sajib Acharjee and Arif, Kazi Hasan Ibn and Shuvo, Uddip Acharjee and Khan, Ishtiaque Ahmed and Meng, Na},
+  journal={arXiv preprint arXiv:2409.00873},
+  year={2024}
+}
