@@ -1,5 +1,5 @@
-# Equi-Derm
-## Equitable Skin Disease Prediction Using Transfer Learning and Domain Adaptation [[arxiv](https://arxiv.org/abs/2409.00873)]
+# Equi-Derm: Equitable Skin Disease Prediction Using Transfer Learning and Domain Adaptation [[arxiv](https://arxiv.org/abs/2409.00873)]
+Accepted in MI4EGH (AAAI Fall Symposium 2024)
 **Abstract:** 
 In the realm of dermatology, the complexity of diagnosing
 skin conditions manually requires the expertise of dermatologists. Accurate identification of various skin ailments,
